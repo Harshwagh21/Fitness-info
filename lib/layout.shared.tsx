@@ -7,6 +7,7 @@ export function baseOptions(): BaseLayoutProps {
         <img
           src="/logo/logo-1.png"
           alt="Built Different"
+          title="Home"
           className="h-6 w-28 invert dark:invert-0"
         />
       ),
